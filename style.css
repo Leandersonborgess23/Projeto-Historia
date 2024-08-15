@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0bd115;
+}
+
+h1 {
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
