@@ -61,3 +61,13 @@ a{
 a:hover{ 
     text-decoration: underline; 
 }
+
+.img-colonia {
+    width: 600px; /* Tamanho da imagem da colônia */
+    height: 400px; /* Altura da imagem da colônia */
+}
+
+.img-imperio {
+    width: 500px; /* Tamanho da imagem do império */
+    height: 300px; /* Altura da imagem do império */
+}
