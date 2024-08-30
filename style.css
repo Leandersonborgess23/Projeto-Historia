@@ -63,11 +63,28 @@ a:hover{
 }
 
 .img-colonia {
-    width: 600px; /* Tamanho da imagem da colônia */
+    width: 500px; /* Tamanho da imagem da colônia */
     height: 400px; /* Altura da imagem da colônia */
 }
 
 .img-imperio {
+    width: 500px; /* Tamanho da imagem do império */
+    height: 300px; /* Altura da imagem do império */
+}
+
+.img-atual {
+    display: block;
+    margin: 0 auto;
+    width: 500px; /* Tamanho da imagem do império */
+    height: 500px; /* Altura da imagem do império */
+}
+
+img-coroa {
+    width: 500px; /* Tamanho da imagem do império */
+    height: 300px; /* Altura da imagem do império */
+}
+
+img-indigenas {
     width: 500px; /* Tamanho da imagem do império */
     height: 300px; /* Altura da imagem do império */
 }
