@@ -68,23 +68,44 @@ a:hover{
 }
 
 .img-imperio {
-    width: 500px; /* Tamanho da imagem do império */
-    height: 300px; /* Altura da imagem do império */
+    width: 500px; 
+    height: 300px; 
 }
 
 .img-atual {
     display: block;
     margin: 0 auto;
-    width: 500px; /* Tamanho da imagem do império */
-    height: 500px; /* Altura da imagem do império */
+    width: 500px; 
+    height: 500px; 
 }
 
 img-coroa {
-    width: 500px; /* Tamanho da imagem do império */
-    height: 300px; /* Altura da imagem do império */
+    width: 500px; 
+    height: 300px; 
 }
 
 img-indigenas {
-    width: 500px; /* Tamanho da imagem do império */
-    height: 300px; /* Altura da imagem do império */
+    width: 500px; 
+    height: 300px; 
+}
+
+
+img-colonos {
+    width: 500px; 
+    height: 300px; 
+}
+
+img-culturais {
+    width: 500px; 
+    height: 300px; 
+}
+
+img-economicos {
+    width: 500px; 
+    height: 300px; 
+}
+
+img-politicos {
+    width: 500px; 
+    height: 300px; 
 }
