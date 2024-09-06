@@ -3,9 +3,12 @@ let currentSlide = 0;
         const slides = document.querySelectorAll('.slide');
         slides.forEach((slide, i) => {
             slide.classList.toggle('active', i === index);
-    });
+        });
         currentSlide = index;
+    
+        window.scrollTo(0, 0);
     }
+
     function nextSlide() {
         const slides = document.querySelectorAll('.slide');
         if (currentSlide < slides.length - 1) {
